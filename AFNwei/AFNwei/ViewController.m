@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"wwwwwwwwwww");
     NSLog(@"修改");
+     NSLog(@"第二次修改");
 }
 
 - (void)didReceiveMemoryWarning {
